@@ -146,3 +146,8 @@ models/
 *.h5
 *.pkl
 *.pth
+
+# .idea or .vscode or .ipynb_checkpoints
+.vscode/
+.idea/
+.ipynb_checkpoints/
